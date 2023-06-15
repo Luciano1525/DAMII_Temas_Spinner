@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Temas - Luciano Bacab</string>
+
+    <string-array name="Temas">
+        <item>Seleccionar Tema</item>
+        <item>Claro</item>
+        <item>Oscuro</item>
+        <item>Personalizado</item>
+    </string-array>
+
+    <string name="TextView">Seleccione un Planeta</string>
+
+    <string-array name="Planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>La Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+
+</resources>

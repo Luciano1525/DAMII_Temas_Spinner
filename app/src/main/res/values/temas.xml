@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MiTema">
+        <!-- Personaliza los atributos del tema aquí -->
+        <item name="colorPrimary">#FF0000</item>
+        <item name="colorAccent">#00FF00</item>
+        <item name="android:windowBackground">@drawable/color_fondo_perso</item>
+    </style>
+
+    <style name="Oscuro">
+        <!-- Personaliza los atributos del tema aquí -->
+        <item name="android:windowBackground">@color/Negro</item>
+        <item name="android:textColorPrimary">@color/Blanco</item>
+        <item name="android:textColorSecondary">@color/Blanco</item>
+        <!-- Otros atributos del tema oscuro -->
+    </style>
+
+</resources>
